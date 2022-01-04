@@ -10,12 +10,14 @@ Been into cybersecurity since 2000 and console repair since 2008. Eventually con
    - 🔰 Automobiles
    - ⚔️ Dungeons and Dragons
    - 🍡 Food
+   - ⌚ Watches
  - 🔭 Interested in:
    - 🔐 Cybersecurity
+   - 🔎 Digital Forensics & Incident Response
    - 📱 Developing Software (in Perl)
    - 👨‍🎓 Behavioural Psychology
    - 🪙 Cryptocurrency
-   - 🧪 Malware Analysis
+   - 🧪 Malware Analysis and Obfuscation
  - 🛠 I started with Perl and now I'm stuck with it. 
  - ⌛ Basically not doing any projects or repairs for a while!
 
