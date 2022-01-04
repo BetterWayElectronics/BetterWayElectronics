@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**BetterWayElectronics/BetterWayElectronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://betterwayelectronics.com.au" target="blank"><img valign="middle" align="right" src="https://www.betterwayelectronics.com.au/images/small_logo.png" alt="BwE"/></a>
 
-Here are some ideas to get you started:
+Been into cybersecurity since 2000 and console repair since 2008. Eventually converged my knowledge into creating software for validating the flash memory on both PS3s and PS4s. Now I am currently studying a PhD in cybersecurity focusing on anonymity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🎏 Hobbies: 
+   - 🔌 Electronics
+   - 📽️ Movies
+   - 🔰 Automobiles
+   - ⚔️ Dungeons and Dragons
+   - 🍡 Food
+ - 🔭 Interested in:
+   - 🔐 Cybersecurity
+   - 📱 Developing Software (in Perl)
+   - 👨‍🎓 Behavioural Psychology
+   - 🪙 Cryptocurrency
+   - 🧪 Malware Analysis
+ - 🛠 I started with Perl and now I'm stuck with it. 
+ - ⌛ Basically not doing any projects or repairs for a while!
+
+#### 🔗 Links
+
+* <a href="https://discord.gg/KZCmpz5ht3"/>🗣️ Console Repair Discord</a>
+
+* <a href="https://instagram.com/betterwayelectronics"/>📷 @BetterWayElectronics</a>
