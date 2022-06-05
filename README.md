@@ -2,7 +2,7 @@
 
 <a href="https://betterwayelectronics.com.au" target="blank"><img valign="middle" align="right" src="https://www.betterwayelectronics.com.au/images/small_logo.png" alt="BwE"/></a>
 
-Been into cybersecurity since 2000 and console repair since 2008. Eventually converged my knowledge into creating software for validating the flash memory on both PS3s and PS4s. Now I am currently studying a PhD in cybersecurity focusing on anonymity. 
+Been into cybersecurity since 2000 and console repair since 2008. Eventually converged my knowledge into creating software for validating the flash memory on both PS3s and PS4s. Now I am currently studying a PhD in cybersecurity focusing on behaviour. 
 
  - 🎏 Hobbies: 
    - 🔌 Electronics
