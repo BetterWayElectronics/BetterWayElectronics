@@ -6,20 +6,21 @@ Been into cybersecurity since 2000 and console repair since 2008. Eventually con
 
  - 🎏 Hobbies: 
    - 🔌 Electronics
-   - 📽️ Movies
+   - 📽️ Movies & Television
    - 🔰 Automobiles
-   - ⚔️ Dungeons and Dragons
+   - ⚔️ Divinity Original Sin 2
    - 🍡 Food
    - ⌚ Watches
+   - 🌠 Star Trek
  - 🔭 Interested in:
    - 🔐 Cybersecurity
    - 🔎 Digital Forensics & Incident Response
    - 📱 Developing Software (in Perl)
    - 👨‍🎓 Behavioural Psychology
-   - 🪙 Cryptocurrency
+   - 🪙 Cryptocurrency (Maybe)
    - 🧪 Malware Analysis and Obfuscation
  - 🛠 I started with Perl and now I'm stuck with it. 
- - ⌛ Basically not doing any projects or repairs for a while!
+ - ⌛ Busy being overwealmed with a PhD 😖
 
 #### 🔗 Links
 
