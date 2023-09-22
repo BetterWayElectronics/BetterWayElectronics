@@ -8,7 +8,7 @@ Been into cybersecurity since 2000 and console repair since 2008. Eventually con
    - 🔌 Electronics
    - 📽️ Movies & Television
    - 🔰 Automobiles
-   - ⚔️ Divinity Original Sin 2
+   - ⚔️ Baldurs Gate 3
    - 🍡 Food
    - ⌚ Watches
    - 🌠 Star Trek
