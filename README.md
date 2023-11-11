@@ -23,7 +23,7 @@
   In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! I am known for my development of PS3, PS4 and now PS5 repair software which is used by thousands of repairers worldwide!
 
 
-<br><br><img align="right" height="300vh" src="https://media.discordapp.net/attachments/966352225578393640/1021163005565743124/6u5ellqamjo91.gif">
+<br><br><img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1047826815948955658/IMG_20221201_192401_089.jpg">
 
  - 🔭 Interested in:
     - 🔌 Electronics
@@ -43,9 +43,9 @@
 
 ## 🖥️ Workstation
 
-<img align="right" height="300vh" src="https://cdn.discordapp.com/attachments/660817264840540170/1145152351301292112/20230827_102457.jpg?ex=6559563c&is=6546e13c&hm=9335ac4eb675ebc1f92ae81b2a7dbb036bec58aeb81cbf90f39f65e2d769a214&">
+<img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1085803964999680031/desk.jpg">
 
-  <summary>Machine Specs</summary>
+  <summary>Office Setup</summary>
 
   - Free University Laptop
   - x2 27" DELL 4K 60hz Screens
@@ -53,7 +53,7 @@
   - Heavily Modified PS5 (Read/Write NOR etc)
   - Logitech G13 Keyboard
   - Logitech MX Master Mouse
-  - Not Pictured:
+  - Other:
     - Server: Dell Mini Micro PC (Plex, Sonarr, QBT) 
     - NAS: Terramaster 4 Bay (JBOD)
     - Drives: x4 8TB (Maxxed Out)
