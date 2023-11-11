@@ -19,8 +19,8 @@
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-  I am a PhD student studying cyber security! I have been into cyber security since I was 10 years old, back when BO2K was a thing. I had since moved to console repair and from there into modifying the hardware and software of Playstation consoles.
-  In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! I am known for my development of PS3, PS4 and now PS5 repair and downgrade software which is used by thousands of repairers worldwide!
+  I am a PhD student studying cyber security! I have been into cyber security for 20+ years now. I had since moved to console repair and from there into modifying the hardware and software of Playstation consoles.
+  In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! I am known for my development of PS3, PS4 and now PS5 repair software which is used by thousands of repairers worldwide!
 
 
 <br><br><img align="right" height="300vh" src="https://media.discordapp.net/attachments/966352225578393640/1021163005565743124/6u5ellqamjo91.gif">
@@ -79,8 +79,3 @@
 
 <br><br><img align="right" height="300vh" src="https://media.discordapp.net/attachments/384428143878078464/1010848851332182117/necofloat.gif">
 
-
-
-<div align="center">
-  <p>"I would rather be eating Nandos than doing all this....” ― BwE</p>
-</div>
