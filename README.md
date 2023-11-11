@@ -1,32 +1,86 @@
-### Hey!
+<h3 align="center">
+ 
+ [![My-banner](https://i.imgur.com/an2X7zT.png)](https://betterwayelectronics.com.au)
+</h3>
 
-<a href="https://betterwayelectronics.com.au" target="blank"><img valign="middle" align="right" src="https://www.betterwayelectronics.com.au/images/small_logo.png" alt="BwE"/></a>
+<div align="center">
 
-Been into cybersecurity since 2000 and console repair since 2008. Eventually converged my knowledge into creating software for validating and modifying the flash memory on both PS3s and PS4s. Now I am currently studying a PhD in cybersecurity focusing on behaviour. 
+<a href="https://cutt.ly/CflAJi8"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50"></a>
+<a href="https://instagram.com/betterwayelectronics"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"></a>
+<a href="https://twitter.com/BwE_Dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coast_twitter.png/640px-Coast_twitter.png" alt="Twitter" width="50" height="50"></a>
+<a href="https://discord.com/servers/console-repair-discord-754165317961383997"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" width="50" height="50"></a>
 
- - 🎏 Hobbies: 
-   - 🔌 Electronics
-   - 📽️ Movies & Television
-   - 🔰 Automobiles
-   - ⚔️ Baldurs Gate 3
-   - 🍡 Food
-   - ⌚ Watches
-   - 🌠 Star Trek
+</div>
+
+## About Me
+
+<div>
+<img align="left" height="260vh" src="https://media.tenor.com/BzE05HIQSgQAAAAC/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-mitsuha.gif">
+<img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+</div>
+
+  I am a PhD student studying cyber security! I have been into cyber security since I was 10 years old, back when BO2K was a thing. I had since moved to console repair and from there into modifying the hardware and software of Playstation consoles.
+  In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! I am known for my development of PS3, PS4 and now PS5 repair and downgrade software which is used by thousands of repairers worldwide!
+
+
+<br><br><img align="right" height="300vh" src="https://media.discordapp.net/attachments/966352225578393640/1021163005565743124/6u5ellqamjo91.gif">
+
  - 🔭 Interested in:
-   - 🔐 Cybersecurity
-   - 🔎 Digital Forensics & Incident Response
-   - 📱 Developing Software (in Perl)
-   - 👨‍🎓 Behavioural Psychology
-   - 🪙 Cryptocurrency (Maybe)
-   - 🧪 Malware Analysis and Obfuscation
- - 🛠 I started with Perl and now I'm stuck with it. 
- - ⌛ Busy being overwealmed with a PhD 😖
+    - 🔌 Electronics
+    - 📽️ Movies & Television
+    - 🔰 Automobiles
+    - ⚔️ Baldurs Gate 3
+    - 🍡 Food
+    - ⌚ Watches
+    - 🌠 Star Trek
+    - 🔐 Cybersecurity
+    - 🔎 Digital Forensics & Incident Response
+    - 📱 Developing Software (in Perl)
+    - 👨‍🎓 Behavioural Psychology
+    - 🪙 Cryptocurrency (Maybe)
+    - 🧪 Malware Analysis and Obfuscation
+<br><br><br><br>
 
-#### 🔗 Links
+## 🖥️ Workstation
 
-* <a href="https://discord.gg/KZCmpz5ht3"/>🗣️ Console Repair Discord</a>
+<img align="right" height="300vh" src="https://cdn.discordapp.com/attachments/660817264840540170/1145152351301292112/20230827_102457.jpg?ex=6559563c&is=6546e13c&hm=9335ac4eb675ebc1f92ae81b2a7dbb036bec58aeb81cbf90f39f65e2d769a214&">
 
-* <a href="https://instagram.com/betterwayelectronics"/>📷 @BetterWayElectronics</a>
+  <summary>Machine Specs</summary>
 
-* <a href="https://twitter.com/BwE_Dev"/>🐦 BwE_Dev</a>
+  - Free University Laptop
+  - x2 27" DELL 4K 60hz Screens
+  - Targus 4K Dock
+  - Heavily Modified PS5 (Read/Write NOR etc)
+  - Logitech G13 Keyboard
+  - Logitech MX Master Mouse
+  - Not Pictured:
+    - Server: Dell Mini Micro PC (Plex, Sonarr, QBT) 
+    - NAS: Terramaster 4 Bay (JBOD)
+    - Drives: x4 8TB (Maxxed Out)
 
+  <summary>Audio</summary>
+
+   - Speakers: Adam A8X Studio Monitors
+   - Subwoofer: M-Audio SBX10
+   - DAC: SMSL SU-8 (Balanced via XLR)
+   - Microphone: KMart Spec
+   - Headphones: None
+
+<br><br>
+
+## ❤️ Support me
+
+
+<p>I am a full time student, I really should not be doing any of what I am doing, it is very time consuming!<br></p>
+
+- **Bitcoin** (bc1qhlm94efyk5qw53kr96gx72ntmcqm7u93j8ps30): ❤️ Much easier for me!<br>
+- **[BuyMeACoffee](<https://www.buymeacoffee.com/bwe>)**: No account needed, pay by card<br>
+
+
+<br><br><img align="right" height="300vh" src="https://media.discordapp.net/attachments/384428143878078464/1010848851332182117/necofloat.gif">
+
+
+
+<div align="center">
+  <p>"I would rather be eating Nandos than doing all this....” ― BwE</p>
+</div>
