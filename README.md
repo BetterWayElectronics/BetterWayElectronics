@@ -18,13 +18,13 @@
 <img align="left" height="260vh" src="https://media.tenor.com/BzE05HIQSgQAAAAC/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-mitsuha.gif">
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
-
+<br>
   I am a PhD student studying cyber security! I have been into cyber security for 20+ years now. I had since moved to console repair and from there into modifying the hardware and software of Playstation consoles.
   In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! 
 
 <br><br><br>
 <img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1047826815948955658/IMG_20221201_192401_089.jpg">
-
+<br>
  - 🔭 Interested in:
     - 🔌 Electronics
     - 📽️ Movies & Television
@@ -44,7 +44,7 @@
 ## 🖥️ Workstation
 
 <img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1085803964999680031/desk.jpg">
-
+<br>
   <summary>Office Setup</summary>
 
   - Free University Laptop
