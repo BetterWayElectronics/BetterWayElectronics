@@ -1,6 +1,6 @@
 <h3 align="center">
  
- [![My-banner](https://i.imgur.com/an2X7zT.png)](https://betterwayelectronics.com.au)
+ [![My-banner](https://i.imgur.com/uFK8cDZ.jpeg)](https://betterwayelectronics.com.au)
 </h3>
 
 <div align="center">
