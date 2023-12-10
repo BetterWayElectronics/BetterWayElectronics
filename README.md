@@ -43,13 +43,18 @@
 
 ## 🖥️ Workstation
 
-<img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1085803964999680031/desk.jpg">
+<img align="right" height="400vh" src="https://i.imgur.com/ejvvXw5.jpeg">
 <br>
   <summary>Office Setup</summary>
 
-  - Free University Laptop
+  - Intel Core i5-14600K
+  - Deepcool LE720 360mm Radiator
+  - Gigabyte Aorus Z790M Elite mATX
+  - 64gb (2x32) Corsair Vengeance 5600mhz DDR5
+  - ASRock Phantom Gaming 6800XT 16gb
+  - Kingston KC3000 2TB NVMe
+  - BeQuiet Pure Base 500 Mid Case
   - x2 27" DELL 4K 60hz Screens
-  - Targus 4K Dock
   - Heavily Modified PS5 (Read/Write NOR etc)
   - Logitech G13 Keyboard
   - Logitech MX Master Mouse
