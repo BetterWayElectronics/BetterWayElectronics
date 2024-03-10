@@ -15,7 +15,7 @@
 ## About Me
 
 <div>
-<img align="left" height="260vh" src="https://media.tenor.com/BzE05HIQSgQAAAAC/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-mitsuha.gif">
+<img align="left" height="250vh" src="https://media.tenor.com/BzE05HIQSgQAAAAC/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-mitsuha.gif">
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 <br>
@@ -23,7 +23,7 @@
   In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! 
 
 <br><br><br>
-<img align="right" height="400vh" src="https://i.imgur.com/LPu42po.jpeg">
+<img align="right" height="500vh" src="https://i.imgur.com/LPu42po.jpeg">
 <br>
  - 🔭 Interested in:
     - 🔌 Electronics
