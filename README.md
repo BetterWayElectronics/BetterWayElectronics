@@ -23,7 +23,7 @@
   In 2008 I turned the whole thing into a side business while I have been studying. I then began to focus solely on software development and have since stopped repairing consoles entirely! 
 
 <br><br><br>
-<img align="right" height="400vh" src="https://media.discordapp.net/attachments/660817264840540170/1047826815948955658/IMG_20221201_192401_089.jpg">
+<img align="right" height="400vh" src="https://i.imgur.com/LPu42po.jpeg">
 <br>
  - 🔭 Interested in:
     - 🔌 Electronics
