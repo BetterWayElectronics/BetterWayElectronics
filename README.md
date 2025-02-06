@@ -57,7 +57,7 @@
 
 ## 🖥️ Workstation
 
-<img align="right" height="400vh" src="https://i.imgur.com/7uAQAHs.jpeg">
+<img align="right" height="300vh" src="https://i.imgur.com/7uAQAHs.jpeg">
 <br>
   <summary>Office Setup</summary>
 
