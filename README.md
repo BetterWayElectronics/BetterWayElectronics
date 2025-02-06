@@ -19,11 +19,20 @@
 <img align="center" height="320vh" src="https://media.tenor.com/BzE05HIQSgQAAAAC/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-mitsuha.gif">
 </div>
 <br>
-Hey, I go by BwE on the internet. I've been into cybersecurity since 2000, and have since began studying it at a PhD level (Good Idea? Not Sure). I've always been interested in reverse engineering, and combined with my interest for repairing random things, I started a small business repairing PlayStation consoles. From there, I began developing open-source software to aid in the repair and reverse engineering of the PS3, PS4, and now PS5.
-<br><br>
-I've since stopped doing repairs since around 2022 due to a poor pay-to-satisfaction ratio. Now, I focus on developing my own paid software and have since become the global leader in PlayStation repair software. I support tens of thousands of users in countries all around the world and play a part in the repair of 18,000 consoles a week (as of 29th July 2024). Not bad considering I originally made all of my software for my own repairs.
-<br><br>
-Some people haven't liked the idea of me charging money for repair software (or even protecting it against piracy), but hey that's life. I will continue to do what I enjoy regardless. <3
+
+<p>Hello, I am BwE! I’ve been into cybersecurity since 2000—back when I was experimenting with B02K and creating IIS 5 Unicode directory traversal bots in Visual Basic. I eventually shifted my focus from hacking to reverse engineering, which sparked my interest in malware analysis and digital forensics.</p>
+
+<p>My journey took a turn when my personal PS3 died, leading me to explore console repair. After successfully fixing it, I turned this skill into a business. From 2008 until 2022, I repaired consoles and other electronics and developed my own custom software to streamline the repair process.</p>
+
+<p>In 2013, I released the <a href="https://github.com/BetterWayElectronics/bwe-nor-validator">BwE PS3 NOR Validator</a> for free, quickly building a large following. By 2022, I transitioned into premium paid software and have since become the global leader in PlayStation repair software. My flagship products the <a href="https://github.com/BetterWayElectronics/ps5-code-reader">BwE PS5 Code Reader</a> and the <a href="https://github.com/BetterWayElectronics/ps4-nor-validator">BwE PS4 NOR Validator</a> have each sold thousands of copies to businesses around the world, with my software being used roughly 20,000 times per week. This has proudly contributed to the repair of thousands of consoles.</p>
+
+<p>One of my greatest achievements is that all of my repair software is entirely novel; every feature and function and methodology was created by me, paving the way for innovative solutions to fix consoles that were once considered unfixable. With the help of my colleague DarkNESMonk, we even managed to modify the PS4 Syscon to enable downgrading—a groundbreaking feat at the time which opened the door to repairs and allowed for the freedom of users to jailbreak their consoles.</p>
+
+<p>As my work evolved, so did the challenges. The success of my innovations made me a target for piracy and reverse engineering. To protect my creations, I controversially introduced DRM into my paid software. While this decision wasn’t embraced by everyone and even led to unauthorized clones of my software (or its functionalities) being released, it was a necessary step in safeguarding my intellectual property.</p>
+
+<p>Today, I continue to sell my software, develop new features, and even offer my solutions as a browser-based service at a lower fee, making them accessible to a broader market.</p>
+
+
 
 ## 🍕 Interests
 
