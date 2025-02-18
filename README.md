@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<p>Hello, I am BwE! I’ve been into cybersecurity since 2000—back when I was experimenting with B02K and creating IIS 5 Unicode directory traversal bots in Visual Basic. I eventually shifted my focus from hacking to reverse engineering, which sparked my interest in malware analysis and digital forensics.</p>
+<p>Hello, I am BwE! I’ve been into cybersecurity since 2000 where I was awkwardly creating IIS 5 Unicode directory traversal bots in Visual Basic. I eventually shifted my focus from hacking to reverse engineering (inspired by wanting to make cracktros in PS1 games), which then sparked my interest in malware analysis and digital forensics.</p>
 
 <p>My journey took a turn when my personal PS3 died, leading me to explore console repair. After successfully fixing it, I turned this skill into a business. From 2008 until 2022, I repaired consoles and other electronics and developed my own custom software to streamline the repair process.</p>
 
